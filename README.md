@@ -80,4 +80,4 @@
 
 # Ссылки на ресурсы
 
-[Источники] https://cloud.mail.ru/public/ToJr%2F5hHbgC66Y
+[Источники](https://cloud.mail.ru/public/ToJr%2F5hHbgC66Y)
